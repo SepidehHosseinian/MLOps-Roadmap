@@ -77,14 +77,6 @@ Books
 •  Building Machine Learning Pipelines: A book by Hannes Hapke and Catherine Nelson that explains how to design and implement scalable and reliable machine learning pipelines using TensorFlow Extended (TFX). The book covers topics such as data ingestion, preprocessing, validation, transformation, modeling, tuning, serving, monitoring, and retraining.
 
 •  Practical MLOps: A book by Noah Gift that shows how to apply MLOps principles and techniques to real-world scenarios using tools such as AWS SageMaker,
-
-2:41 PM
-Continue the readme file.
-
-Bing, 2:41 PM
-Okay, I will continue the readme file. Here is the next part:
-
-
 Kubeflow, MLflow, and TensorFlow. The book covers topics such as data engineering, model development, deployment, monitoring, and governance.
 •  Machine Learning Engineering: A book by Andriy Burkov that provides a comprehensive guide to the engineering aspects of machine learning, such as data collection, preprocessing, feature engineering, model training, validation, testing, deployment, monitoring, and maintenance. The book also covers topics such as ethics, security, and legal issues of machine learning.
 
