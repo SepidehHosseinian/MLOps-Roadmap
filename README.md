@@ -20,7 +20,7 @@ MLOps is a rapidly evolving field that requires constant learning and experiment
 
 •  Contributing
 
-What is MLOps?
+## What is MLOps?
 MLOps is a term that combines machine learning (ML) and operations (Ops). It refers to the set of practices and processes that aim to streamline and optimize the development, deployment, and maintenance of machine learning models in production environments.
 
 MLOps is inspired by DevOps, a software engineering culture that emphasizes collaboration, communication, automation, and continuous improvement across the software development lifecycle. DevOps aims to deliver software products faster, more reliably, and more securely.
