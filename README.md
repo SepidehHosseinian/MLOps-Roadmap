@@ -1,7 +1,10 @@
-# MLOps Roadmap 2023
+# MLOps Roadmap 2024
 This repository contains a collection of resources and projects related to MLOps, the practice of applying DevOps principles and techniques to machine learning systems. MLOps aims to improve the quality, reliability, and scalability of machine learning models in production, as well as to enable collaboration and automation across the machine learning lifecycle.
 
 MLOps is a rapidly evolving field that requires constant learning and experimentation. This repository is intended to provide a roadmap for anyone who wants to learn about MLOps, keep up with the latest trends and developments, and apply MLOps best practices and tools to their own projects.
+
+## Updated MLOPS Roadmap Link
+link- https://whimsical.com/mlops-roadmap-UaAtBWznsuoiXuVMEnECTa
 
 ## Contents
 •  What is MLOps?
